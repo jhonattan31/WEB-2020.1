@@ -1,0 +1,22 @@
+{
+  "disciplinas": [
+    {
+      "id": 1,
+      "nome": "FUP",
+      "curso": "EC",
+      "capacidade": "40"
+    },
+    {
+      "id": 2,
+      "nome": "SO",
+      "curso": "CC",
+      "capacidade": "50"
+    },
+    {
+      "nome": "JhonDarkness",
+      "curso": "CC",
+      "capacidade": "39",
+      "id": 3
+    }
+  ]
+}
