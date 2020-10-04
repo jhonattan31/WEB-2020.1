@@ -1,0 +1,29 @@
+{
+  "disciplinas": [
+    {
+      
+      "nome": "WEB_2",
+      "curso": "Si",
+      "capacidade": "28",
+      "id": 1
+    },
+    {
+      "nome": "Discreta",
+      "curso": "CC",
+      "capacidade": "50",
+      "id": 2
+    },
+    {
+      "nome": "LIP",
+      "curso": "ES",
+      "capacidade": "25",
+      "id": 3
+    },
+    {
+      "nome": "CSGBD",
+      "curso": "SI",
+      "capacidade": "321",
+      "id": 4
+    }
+  ]
+}
